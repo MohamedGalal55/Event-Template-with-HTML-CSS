@@ -1,4 +1,4 @@
-#Event-Template-with-HTML-CSS
+# Event-Template-with-HTML-CSS
 
 A custom-coded event page template built using HTML and CSS.
 
